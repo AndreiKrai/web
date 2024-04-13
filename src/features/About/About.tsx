@@ -1,7 +1,9 @@
-import React from 'react'
-
-export default function About() {
-  return (
-    <div>Comming soon...</div>
-  )
+function About() {
+    return (
+        <p>
+            Coming soon..
+        </p>
+    );
 }
+
+export default About;
